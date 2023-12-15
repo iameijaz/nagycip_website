@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/nagycip_website/static/css/main.f22dcbac.css",
-    "main.js": "/nagycip_website/static/js/main.fa90f914.js",
+    "main.css": "/nagycip_website/static/css/main.4f5b7cb8.css",
+    "main.js": "/nagycip_website/static/js/main.526313ad.js",
     "index.html": "/nagycip_website/index.html",
-    "main.f22dcbac.css.map": "/nagycip_website/static/css/main.f22dcbac.css.map",
-    "main.fa90f914.js.map": "/nagycip_website/static/js/main.fa90f914.js.map"
+    "main.4f5b7cb8.css.map": "/nagycip_website/static/css/main.4f5b7cb8.css.map",
+    "main.526313ad.js.map": "/nagycip_website/static/js/main.526313ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.f22dcbac.css",
-    "static/js/main.fa90f914.js"
+    "static/css/main.4f5b7cb8.css",
+    "static/js/main.526313ad.js"
   ]
 }
